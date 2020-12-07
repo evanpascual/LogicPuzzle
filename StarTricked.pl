@@ -5,11 +5,6 @@ day(2).	%wednesday
 day(3).	%thursday
 day(4).	%friday
 
-enthusiast(barrada).
-enthusiast(gort).
-enthusiast(klatu).
-enthusiast(nikto).
-
 ufo(balloon).
 ufo(clothesline).
 ufo(frisbee).
